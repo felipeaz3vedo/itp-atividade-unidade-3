@@ -55,6 +55,8 @@ Irei fornecer o programa compactado no formato zip. Porém, caso prefira trabalh
 
 2. Entre no diretório do projeto via linha de comando
 
+> **Caso tenha escolhido descompactar o arquivo zip, se atente para entrar na pastar correta: itp-atvidade-unidade-3**
+
 &nbsp;
 
 
