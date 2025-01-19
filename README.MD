@@ -102,4 +102,4 @@ Irei fornecer o programa compactado no formato zip. Porém, caso prefira trabalh
 
 &nbsp;
 
-7. Abra a imagem com um editor compátivel com o formato .pbm
+6. Abra a imagem com um editor compátivel com o formato .pbm
